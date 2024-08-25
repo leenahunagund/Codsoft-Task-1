@@ -1,0 +1,37 @@
+.lis{
+    border:solid 1px;
+    margin:5px;
+    padding:5px;
+    border-radius: 10px;
+    display:flex;
+    flex-direction: row;
+    transition: 0.3s;
+    cursor:pointer;
+}
+.lis:hover{
+    background-color: aqua;
+    color:black;
+}
+.intro{
+    transition: 0.3s;
+    cursor:pointer;
+}
+.intro:hover{
+    color:darkorchid;
+}
+
+.titles,.project{
+    transition: 0.3s;
+    cursor:pointer;
+}
+.titles:hover{
+    font-size: 28px;
+    color:coral;
+}
+.aboutME{
+    transition: 0.3s;
+    cursor:pointer;
+}
+.aboutME:hover{
+    color:cornflowerblue;
+}
