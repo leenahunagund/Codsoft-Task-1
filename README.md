@@ -1,3 +1,7 @@
+## TASK 1 - Personal Portfolio Website
+Features: Home page, project showcase, about me section, contact form.</br>
+Skills: React components, responsive design, and CSS styling
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
